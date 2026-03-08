@@ -1,17 +1,17 @@
 @font-face {
-    font-family: 'KomikaTitle';
-    src: url('fonts/komikatitle_axisrus_lat.otf') format('opentype');
+    font-family: 'Digi';
+    src: url('../fonts/F37BlankaCyrillic-VF.ttf') format('opentype');
 }
 
 .nav-link {
     transition: 0.3s;
-
+ color:white;
 
 }
 
 .nav-link:hover {
     color: rgb(255, 170, 0);
-    box-shadow: 0px 10px 10px black;
+    box-shadow: 0px 10px 10px rgb(0, 0, 0);
     border-radius: 10px;
 }
 
@@ -35,7 +35,7 @@ html {
 body {
     background-color: #272727;
     color: white;
-    font-family: "KomikaTitle" ;
+    font-family: "Digi" ;
     margin: 0px;
     /* забираємо стандартні відступи в тега body */
 }
@@ -56,7 +56,7 @@ body {
 }
 
 .my-card:hover {
-    background: #DCE5E2;
+    background: #a3a2a2;
     cursor: pointer;
     transition: background .2s linear;
     color: #272727;
@@ -82,7 +82,7 @@ body {
     font-size: 1rem;
     line-height: 1rem;
     /* 120% */
-    color: rgb(154, 131, 255);
+    color: rgb(255, 174, 23);
     display: flex;
     gap: 5px;
     align-items: center;
@@ -92,7 +92,7 @@ body {
     width: 244px;
     height: 214px;
     object-fit: contain;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.116);
+    
 }
 
 .container-cards {
@@ -134,7 +134,7 @@ header.fixed {
     align-items: center;
     justify-content: center;
     gap: 10px;
-    background: linear-gradient(to left, rgb(173, 154, 255), rgb(149, 110, 255));
+    background: linear-gradient(to left, rgb(255, 238, 1), rgb(192, 59, 15));
     border-radius: 30px;
     color: rgb(255, 255, 255);
     font-weight: 600;
@@ -145,15 +145,23 @@ header.fixed {
     cursor: pointer;
     transition-duration: .2s;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.116);
+    margin-left: 10px;
+    transition:0.3s;
 }
-
+@media (max-width: 768px) {
+    .cart-btn{
+        margin-right: 0;
+        margin-top: 10px;
+    }
+}
 .bell {
     width: 25px;
 }
 
 
 .cart-btn:hover {
-    background: linear-gradient(to left, rgb(154, 131, 255), rgb(135, 91, 255));
+    background: linear-gradient(to left, rgb(204, 190, 1), rgb(159, 49, 13));
+    transition:0.3s; 
 }
 
 .cart-btn:active {
