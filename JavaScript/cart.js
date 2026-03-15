@@ -55,3 +55,18 @@ orderBtn.addEventListener("click", function (event) {
             easing: 'easeInOutQuad'
         })
 })
+const form = document.querySelector('.order-form');
+
+form.addEventListener('submit', function(event) {
+  event.preventDefault();
+  // очищаємо кошик
+    cart.items = {};
+
+    // оновлюємо відображення
+    showCartList();
+
+    // показуємо текст що кошик пустий
+    cart_list.innerHTML = 'У кошику ще немає товарів';
+
+  alert('Замовлення підтверджено! Дякуємо за покупку.');
+});

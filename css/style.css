@@ -8,7 +8,22 @@
  color:white;
 
 }
+.fade-in-text {
+opacity:0;
+transform:translateY(40px);
+animation: fadeup 1s ease-out forwards;
 
+}
+@keyframes fadeup {
+ 0% {
+     opacity:0;
+     transform:translateY(55px);
+ }
+ 100% {
+    opacity:1;
+    transform:translateY(0px);
+ }
+}
 .nav-link:hover {
     color: rgb(255, 170, 0);
     box-shadow: 0px 10px 10px rgb(0, 0, 0);

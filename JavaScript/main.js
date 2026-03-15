@@ -175,7 +175,8 @@ function addToCart(event) {
 // Функція пошуку товарів
 function searchProducts(event) {
     event.preventDefault(); // Запобігає перезавантаженню сторінки при відправці форми
-
+    let banner=document.querySelector('.banner');
+    banner.style.display="none";
     let query = document.querySelector('#searchForm input').value.toLowerCase();
     let productsList = document.querySelector('.products-list');
     productsList.innerHTML = ''; // Очищуємо список товарів
@@ -203,3 +204,8 @@ function searchProducts(event) {
 // Навішуємо обробник подій на форму пошуку
 let searchForm = document.querySelector('#searchForm')
 searchForm.addEventListener('submit', searchProducts);
+let navbarbrand=document.querySelector(".navbar-brand")
+navbarbrand.addEventListener('click',function(){
+      let banner=document.querySelector('.banner');
+    banner.style.display="block";
+})
