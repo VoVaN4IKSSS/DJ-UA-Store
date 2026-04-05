@@ -2,97 +2,93 @@
     {
         "title": "Samsung Galaxy Buds 4 Pro",
         "price": 10499,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Samsung_Galaxy_Buds3_Pro_01.jpg/640px-Samsung_Galaxy_Buds3_Pro_01.jpg",
+        "image": "buds4.webp",
         "description": "Навушники від самсунг, які мають передові технології переводчика на базі ШІ. Також мають гарний та пространствений звук і хороший акамулятор. В комплекті для зарядки йде зручний кейс на магнітах."
     },
     {
-        "title": "Jbl Flip 7",
+        "title": "Jbl Flip 6",
         "price": 5299,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/JBL_Flip_4_Portable_Bluetooth_Speaker.jpg/640px-JBL_Flip_4_Portable_Bluetooth_Speaker.jpg",
+        "image": "Jbl Flip6.png",
         "description": "Колонка від Jbl с гарним розміром. Підійде для поїздок та танців. Має дуже круті бассові диски та пространственний звук. Також вона має караоке мод."
     },
     {
         "title": "JBL Clip 5",
         "price": 2699,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/JBL_Clip_3_Portable_Bluetooth_Speaker_%28Red%29.jpg/640px-JBL_Clip_3_Portable_Bluetooth_Speaker_%28Red%29.jpg",
+        "image": "clip5.webp",
         "description": "Функціональна колонка від JBL маленького розміру. Ідеально для простого прослуховання музики на дворі з друзями або для танців. Має хороші баси та вбудований карабін, щоб зручно чіпляти її прямо на рюкзак або куртку."
     },
     {
         "title": "Apple AirPods Pro 2",
         "price": 11499,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/AirPods_Pro_2nd_generation.jpg/640px-AirPods_Pro_2nd_generation.jpg",
+        "image": "Airpodspro2.png",
         "description": "Популярні навушники від Apple з дуже крутим активним шумозаглушенням. Мають ідеальний пространствений звук та чисті баси. Дуже зручно сидять у вухах, а кейс підтримує швидку бездротову зарядку."
     },
     {
-        "title": "Marshall Emberton II",
+        "title": "Apple AirPods Pro 3",
         "price": 7499,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Marshall_Emberton_Portable_Bluetooth_Speaker.jpg/640px-Marshall_Emberton_Portable_Bluetooth_Speaker.jpg",
-        "description": "Стильна колонка з класичним вінтажним дизайном. Видає дуже гучний та чистий звук на 360 градусів. Має крутий захист від води та пилу, тому її сміливо можна брати на природу чи на пляж."
+        "image": "Airpodspro3.png",
+        "description": "Популярні та новіші навушники від Apple з дуже крутими функціями та автозаглушенням. Мають ідеальний пространствений звук та погруження. "
     },
     {
         "title": "Sony WH-1000XM5",
         "price": 14999,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sony_WH-1000XM5.jpg/640px-Sony_WH-1000XM5.jpg",
+        "image": "Sonyheadphones.png",
         "description": "Повнорозмірні навушники для тих, хто любить повну тишу. Мають найкраще шумопоглинання на ринку і неймовірно якісний звук. Акамулятор тримає дуже довго, тому це ідеальний варіант для довгих поїздок та перельотів."
     },
     {
         "title": "JBL Charge 5",
         "price": 6499,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/JBL_Charge_5_Portable_Bluetooth_Speaker.jpg/640px-JBL_Charge_5_Portable_Bluetooth_Speaker.jpg",
+        "image": "Jbl Charge5.png",
         "description": "Потужна портативна колонка від JBL, яка не тільки круто грає музику, а й може заряджати твій телефон як павербанк. Має надійний захист від води та пилу, ідеально для вечірок біля басейну чи на пляжі."
     },
     {
         "title": "Samsung Galaxy Buds FE",
         "price": 3999,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Samsung_Galaxy_Buds_FE.jpg/640px-Samsung_Galaxy_Buds_FE.jpg",
+        "image": "Samsung Galaxy Buds FE.png",
         "description": "Бюджетні, але дуже якісні навушники від самсунг. Зручно сидять у вухах завдяки спеціальним гумовим крильцям. Мають активне шумозаглушення та приємний басистий звук для своєї ціни."
     },
     {
         "title": "JBL Xtreme 4",
         "price": 13999,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/JBL_Xtreme_3_Portable_Bluetooth_Speaker.jpg/640px-JBL_Xtreme_3_Portable_Bluetooth_Speaker.jpg",
+        "image": "JBL extreme 4.png",
         "description": "Велика і дуже гучна колонка зі зручним ремінцем для носіння на плечі. Видає масивний бас та кристально чистий звук на високій гучності. Акамулятор працює цілий день без підзарядки."
     },
     {
         "title": "Samsung Galaxy Buds 3",
         "price": 6999,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Samsung_Galaxy_Buds3.jpg/640px-Samsung_Galaxy_Buds3.jpg",
+        "image": "Galaxy buds 3.png",
         "description": "Нове покоління навушників від самсунг з оновленим стильним дизайном та ніжками. Мають глибокий пространствений звук, класні мікрофони для розмов на вулиці та дуже швидко коннектяться до телефону."
     },
     {
-        "title": "JBL Pulse 5",
+        "title": "Marshall Major 5",
         "price": 9999,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/JBL_Pulse_4_Portable_Bluetooth_Speaker.jpg/640px-JBL_Pulse_4_Portable_Bluetooth_Speaker.jpg",
-        "description": "Неймовірна колонка, яка світиться всіма кольорами веселки під ритм музики. Створює круту атмосферу в кімнаті. Звук іде на всі 360 градусів, тому музику чути ідеально з будь-якого боку."
+        "image": "Marshallmajor5.png",
+        "description": "Неймовірні навушники, з дуже гарним звуком від маршал. Ідеально підійде для музикантів,любителей музики."
     },
     {
-        "title": "JBL Tune 770NC",
+        "title": "Marshall KillBurn 3",
         "price": 4599,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/JBL_Tune_760NC_Wireless_Headphones.jpg/640px-JBL_Tune_760NC_Wireless_Headphones.jpg",
-        "description": "Повнорозмірні навушники від JBL з активним шумозаглушенням. Дуже легкі та зручно складаються, щоб кинути в рюкзак. Мають фірмовий потужний звук JBL Pure Bass та тримають заряд купу годин."
+        "image": "MarshallKillburn3.png",
+        "description": "Дуже крута колонка з еквалайзерами для музикантів. Ідеально підійде для електричних гітар."
     },
     {
-        "title": "Samsung Sound Tower MX-ST50B",
+        "title": "Marshall Motif 2",
         "price": 15999,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Samsung_Sound_Tower_MX-T50.jpg/640px-Samsung_Sound_Tower_MX-T50.jpg",
-        "description": "Величезна музична вежа від самсунг для справжніх вечірок. Має двоспрямований звук, який заповнює всю кімнату, круту вбудовану LED-підсвітку та повноцінний режим караоке."
+        "image": "MarshallMotif2.png",
+        "description": "Навушники,з пространственим звуком та енструментальними еквалайзерами. Має гарне шумоподавлення та надзвичайный звук."
     },
     {
         "title": "JBL Boombox 3",
         "price": 18999,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/JBL_Boombox_3_Portable_Bluetooth_Speaker.jpg/640px-JBL_Boombox_3_Portable_Bluetooth_Speaker.jpg",
+        "image": "JBL Boombox 3.png",
         "description": "Найпотужніший бумбокс від JBL для тих, кому потрібно максимум гучності. Масивні баси просто зносять дах. Колонка має міцну металеву ручку і зовсім не боїться води."
     },
-    {
-        "title": "JBL Wave Buds",
-        "price": 1799,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/JBL_Wave_Buds_TWS_Earbuds.jpg/640px-JBL_Wave_Buds_TWS_Earbuds.jpg",
-        "description": "Дуже компактні вакуумні навушники на кожен день. Мають незвичний відкритий кейс без кришки, з якого максимально зручно діставати навушники. Звук чистий і з хорошим басом за свої гроші."
-    },
+    
+    
     {
         "title": "Samsung Galaxy Buds Live",
         "price": 3499,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Samsung_Galaxy_Buds_Live.jpg/640px-Samsung_Galaxy_Buds_Live.jpg",
+        "image": "samsung-galaxy-buds-live.png",
         "description": "Унікальні навушники у формі квасолин від самсунг. Вони не закривають слуховий канал повністю, тому вуха не втомлюються при довгому носінні. Мають гарний звук і стильний глянцевий дизайн."
     }
 ]
