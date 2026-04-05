@@ -61,7 +61,9 @@ form.addEventListener('submit', function(event) {
   event.preventDefault();
   // очищаємо кошик
     cart.items = {};
-
+    cart.saveCartToCookies()
+    cart.updateCounter()
+    orderSection.style.display="none"
     // оновлюємо відображення
     showCartList();
 
